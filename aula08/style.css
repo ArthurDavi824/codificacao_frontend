@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Tint&family=Jersey+10&family=Rum+Raisin&display=swap');
+*{
+    font-family: "Rum Raisin", sans-serif;
+    font-style:normal;
+    font-weight: 800;
+}
+
+.livro{
+    background-color: dodgerblue;
+    font-weight: bold;
+    font-size: 48px;
+}
+
+.um{
+    font-weight: inherit;
+}
+.dois{
+    font-weight: lighter;
+}
+.tres{
+    font-weight: 400;
+}
+

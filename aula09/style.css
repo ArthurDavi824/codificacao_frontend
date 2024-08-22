@@ -1,0 +1,16 @@
+div{
+    background-color: darkcyan;
+}
+
+.um{
+    background-color:darkslategray;
+}
+.dois{
+    background-color: seagreen;
+}
+body{
+height: 100vw;
+width: 2000px;
+background-image:url("major-rd.png");
+background-repeat: round
+}
