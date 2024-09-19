@@ -1,0 +1,29 @@
+.container{
+    width: ;
+    height: 500px;
+    background-color: aquamarine;
+    border: 2px solid beige;
+    display: flex;
+}
+
+.item-1{
+    width: 150px;
+    height: 150px;
+    background-color:cadetblue;
+    border: 2px solid beige;
+    word-wrap: break-word;
+}
+
+.item-2{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(18, 141, 100);
+    border: 2px solid beige;
+}
+
+.item-3{
+    width: 150px;
+    height: 150px;
+    background-color:rgb(22, 107, 79);
+    border: 2px solid beige;
+}

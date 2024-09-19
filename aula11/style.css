@@ -1,0 +1,22 @@
+h1{
+    display: block;
+    background-color:indianred;
+    height: 100px;
+    width: 80px;
+}
+p{
+    background-color: darksalmon;
+}
+
+span{
+    background-color: rgb(226, 194, 151);
+}
+
+.span2{
+    background-color:rgb(199, 165, 120);
+}
+
+a{
+    display: inline-block;
+    background-color: khaki;
+}

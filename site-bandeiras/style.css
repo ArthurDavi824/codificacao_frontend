@@ -1,0 +1,137 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.alagoas {
+    display: flex;
+    height: 400px;
+}
+
+.alagoas-1 {
+    width: 200px;
+    background-color: red;
+}
+
+.alagoas-2 {
+    width: 200px;
+    background-image: url("./Brasao_Alagoas.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.alagoas-3 {
+    width: 200px;
+    background-color: blue;
+
+}
+
+.franca {
+    display: flex;
+    height: 400px;
+}
+
+.franca-1 {
+    width: 200px;
+    background-color: blue;
+}
+
+.franca-2 {
+    width: 200px;
+    background-color: white;
+}
+
+.franca-3 {
+    width: 200px;
+    background-color: red;
+}
+
+.italia {
+    display: flex;
+    height: 400px;
+}
+
+.italia-1 {
+    width: 200px;
+    background-color: green;
+}
+
+.italia-2 {
+    width: 200px;
+    background-color: white;
+}
+
+.italia-3 {
+    width: 200px;
+    background-color: red;
+}
+.alemanha {
+    display: flex;
+    height: 400px;
+    flex-direction:column;
+}
+
+.alemanha-1 {
+    width: 600px;
+    height: 200px;
+    background-color: black;
+}
+
+.alemanha-2 {
+    width: 600px;
+    height: 200px;
+    background-color: red;
+}
+
+.alemanha-3 {
+    width: 600px;
+    height: 200px;
+    background-color: yellow;
+}
+.argentina {
+    display: flex;
+    height: 400px;
+    flex-direction:column;
+}
+
+.argentina-1 {
+    width: 600px;
+    height: 200px;
+    background-color: skyblue;
+}
+
+.argentina-2 {
+    width: 600px;
+    height: 200px;
+    background-image: url("./brasao_argentina.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.argentina-3 {
+    width: 600px;
+    height: 200px;
+    background-color:skyblue;
+}
+.nigeria {
+    display: flex;
+    height: 400px;
+}
+
+.nigeria-1 {
+    width: 200px;
+    background-color: green;
+}
+
+.nigeria-2 {
+    width: 200px;
+    background-color: white;
+}
+
+.nigeria-3 {
+    width: 200px;
+    background-color: green;
+}
