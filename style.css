@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}
+
+p{
+    color: white;
+    background-color: brown;
+    margin: 10px;
+}
+
+.cinza{
+    background-color: bisque;
+}
+
+#verde{
+    background-color: green;
+}
+
+ul > li {
+    background-color: red;
+    margin: 10px;
+}
+
+.box > form > input {
+    background-color: aqua;
+}
